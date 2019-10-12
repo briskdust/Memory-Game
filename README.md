@@ -9,7 +9,7 @@
 
 ## Demo
 
-[Preview Demo](http://htmlpreview.github.io/?https://github.com/briskdust/udacity-memory-game/blob/master/index.html)
+[Preview Demo](https://briskdust.github.io/udacity-memory-game/index.html)
 
 ***************************************
 
